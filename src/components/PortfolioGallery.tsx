@@ -20,6 +20,11 @@ const thumbnails = [
   "https://cdn.myportfolio.com/9c243180-54dd-4fb6-a144-3c2ed71cda49/6b86d4e1-a954-405d-a0aa-bb5ef0f06b78_rw_600.jpg?h=86ae47fc7229084f5af51465420330b7",
   "https://cdn.myportfolio.com/9c243180-54dd-4fb6-a144-3c2ed71cda49/a8fa3bde-7901-4329-a0c2-441f9c7e44c7_rw_600.jpg?h=8806d3e61497631c37256f69721dbd8d",
   "https://cdn.myportfolio.com/9c243180-54dd-4fb6-a144-3c2ed71cda49/41f3f1c9-fa7e-4c61-b873-8aebbfb0cac4_rw_600.jpg?h=a80a098e5f161f275c7102df71abe385",
+  "https://media.discordapp.net/attachments/1483579390284529694/1523031167396348056/21_savage.jpg?ex=6a4e954e&is=6a4d43ce&hm=c9e5f50bd4e02f7f5b8fae61eb4813735bc47483b98feaae1e27105f942fa80e&=&format=webp&width=928&height=522",
+  "https://media.discordapp.net/attachments/1483579390284529694/1523031167908057168/miniature-offert.jpg?ex=6a4e954e&is=6a4d43ce&hm=53a5a27606eac568fa5f2bf897d7890c5a810f17becd79f463ca736bf600191f&=&format=webp&width=928&height=522",
+  "https://media.discordapp.net/attachments/1483579390284529694/1523031168566427699/miniature_rayanis_V2.jpg?ex=6a4e954f&is=6a4d43cf&hm=d991b2e73277c1f94d3c501b965b8545fb0824cb476786734b354177e57596e0&=&format=webp&width=928&height=522",
+  "https://media.discordapp.net/attachments/1483579390284529694/1523031168973406288/miniature_vlog_avec_unchained.jpg?ex=6a4e954f&is=6a4d43cf&hm=74fb0e3fa21d9533a2c54f6ac948de49c770b4e16ed182e80caed84f9917c4d3&=&format=webp&width=928&height=522",
+  "https://media.discordapp.net/attachments/1483579390284529694/1523031169434910802/miniatures_protofolio.png?ex=6a4e954f&is=6a4d43cf&hm=8610a5237b084d9e3e875c2feed4b056896dbd1c732fb03999c1bd17b4eddc8c&=&format=webp&quality=lossless&width=928&height=522",
 ];
 
 const categories = {
